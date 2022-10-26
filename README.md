@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://api.memegen.link/images/ds/small_file/high_quality.png/" width="512px"/>
+<img src="https://api.memegen.link/images/*.png/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leooism&icon=2&color=0)](https://visitcount.itsvg.in)
