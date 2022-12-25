@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>I am full stack developer with enthusiasm to explore, learn and develop. I have been around this field for last two years and during that period I have had lots of fun. 
+<br>Hello! I am a software developer with a passion for building and maintaining high quality, reliable systems. With 3 years of experience in JavaScript, Node.js, React.js, Next.js I have a strong foundation in Full Stack Development.
+
+I enjoy working on projects that make a positive impact, whether that be through improving the efficiency of a process or creating a new tool that helps people achieve their goals. In my spare time, I like to stay up to date with the latest technologies and contribute to open source projects.
+
+Feel free to take a look at my portfolio and let me know if you have any questions. I'm always open to discussing new ideas and opportunities. 
 
 
 ## 🌐 Socials:
